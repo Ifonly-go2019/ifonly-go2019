@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🐒 this is m0nk3y speaking!
-- 🔭 I’m currently working on CET-6、Final exam （进度  0%）...
+- 🔭 I’m currently working on （进度  0%）...
 
 
 
