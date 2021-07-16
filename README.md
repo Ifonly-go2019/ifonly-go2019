@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 层就职于长亭科技、星阑科技、目前在QAX A-Team （均为实习）
 
 
-- 目前运营着一个公众号，当作博客在用：
+- 目前运营着一个公众号，当作博客在用，欢迎各位大哥关注➕：
 
 ![image](https://user-images.githubusercontent.com/52337707/125916484-9c0abc9b-0903-41b1-807b-f7edf22c9ebe.png)
 
